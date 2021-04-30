@@ -7,7 +7,10 @@
 - 🌱 I’m currently finish learning full stack web development
 - 💞️ I'm looking for a new job
 - 📫 How to reach me 
+
 linkedIn profile: https://www.linkedin.com/in/arafat-islam-naim-400512203/
+
+
 resume: https://drive.google.com/file/d/1hgxTLdW9PEBL4vhwoA6U_phsQT_vw_mj/view?usp=sharing
 
 <!---
